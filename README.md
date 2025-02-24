@@ -10,3 +10,5 @@ Funcionalidades: criação de usuário, efetivação de login, filtro e reserva 
 ✅ Validação de dados: biblioteca FluentValidator
 ✅ Funcionalidades: registro de dados, efetivação de login, paginação e filtros
 ✅ Documentação: Swagger
+
+Obs: a ideia é continuar alimentando as funcionalidades da API e atualizando o repositório com novidades
