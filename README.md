@@ -3,6 +3,7 @@ API desenvolvida com boas práticas de programação, arquitetura em camadas e a
 Objetivo: realizar reservas de livros simulando sistema de biblioteca;
 Funcionalidades: criação de usuário, efetivação de login, filtro e reserva de livros;
 
+✅ Utilizado SQLite para simualar a manipulação dos dados
 ✅ Autenticação via JWT 🔑
 ✅ Criptografia de senhas com BCrypt 🔐
 ✅ Construção de APIs RESTful em C# e .Net Core 8
